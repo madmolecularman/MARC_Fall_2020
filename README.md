@@ -15,7 +15,7 @@ These meetings are meant to provide a platform for MARC trainees to discuss thei
 * Meeting activity (50-60 minutes)
 * Wrap-up (20 minutes)
 
-Check-ins will give trainees the opportunity to update coordinators about what is going on in their programs and how they are doing. It will also allow coordinators to communicate 
+Check-ins will give traineescd .. the opportunity to update coordinators about what is going on in their programs and how they are doing. It will also allow coordinators to communicate 
 
 Warm-up's are meant to help students organize, prioritize, and record their ideas.
 
@@ -55,7 +55,10 @@ Week | Day | Date     | Activity               | Time & Place           |
 
  Date     | Activity     | Time & Place           | 
  -------- | -------------| -----------------------|
- 9/11/20  | ABRCMS abstract due | 11:59 pm, https://www.abrcms.org/index.php/present-at-abrcms/submit-an-abstract |
+ 9/2/20   | SACNAS: Mapping Your Power as a Scientist Advocate | 12 pm (PDT), [register here](https://us02web.zoom.us/webinar/register/WN_xzU6TYjaRXq8iLyoGQEt6w)
+ 9/9/20   | SACNAS: Insights to Success: Career Paths Outside of Academia | 1 pm (PDT), [register here](https://us02web.zoom.us/webinar/register/WN_VXMRnSYgQdOHaDxezx936Q)
+ 9/11/20  | ABRCMS abstract due | 11:59 pm, [submit here](https://www.abrcms.org/index.php/present-at-abrcms/submit-an-abstract) |
+ 9/22/20  | DevBio PhD Program Stanford Panel Discussion | 3:30 - 5:00 pm (PDT), [register here](https://docs.google.com/forms/d/e/1FAIpQLSfxd3Lw4Y8qOdgo0dmfJuBf8Tr67z2nm92Hkv58DreBrehA4g/viewform) |
  
  
 ### Deliverables Second years
