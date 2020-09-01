@@ -34,8 +34,8 @@ Week | Day | Date     | Activity     | Time & Place           |
 1    | FRI | 09/11/20 | Welcome back and goal setting | 4 - 6 pm, URI Zoom |
 3    | FRI | 09/25/20 | Developing a game plan for Graduate School and SRE's | 4 - 6 pm, URI Zoom |
 5    | FRI | 10/09/20 | Personal Statements: Writing and Reviewing Time | 4 - 6 pm, URI Zoom |
-7    | FRI | 10/23/20 | Creating Research Relationships: reaching out to potential advisors | 4 - 6 pm, URI Zoom |
-9    | FRI | 11/06/20 | Prep for ABRCMS | 4 - 6 pm, URI Zoom |
+7    | FRI | 10/23/20 | Prep for ABRCMS (Network/Presentationgit add *) | 4 - 6 pm, URI Zoom |
+9    | FRI | 11/06/20 | Prep for ABRCMS () | 4 - 6 pm, URI Zoom |
 11   | FRI | 11/20/20 | Open Session | 4 - 6 pm, URI Zoom |
 13   | FRI | 12/4/20  | Semester Debrief and Winter Planning | 4 - 6 pm, URI Zoom |
 15   | FRI | 12/15/20 | We Survived Celebration| 4 - 6 pm, URI Zoom |
