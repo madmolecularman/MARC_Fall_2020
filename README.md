@@ -27,7 +27,28 @@ Wrap-up's will be a closing opportunity that will help trainees summarize what w
 
 ### Goals
 
-### MARC Schedule 
+### Whole Schedule
+
+Week | Day | Date     | Activity     | Time & Place           | Attendance |
+---- | --- | -------- | -------------| -----------------------| -----------|
+1    | FRI | 09/11/20 | Welcome back and goal setting | 4 - 6 pm, URI Zoom | Required |
+1    | FRI | 9/11/20  | ABRCMS abstract due | 11:59 pm, [submit here](https://www.abrcms.org/index.php/present-at-abrcms/submit-an-abstract) | required for ABRCMS presentation |
+2    | WED | 9/16/20  | Tips and Strategies for Creating Resumes and Using Linkedin | 4 - 5 pm, URI Zoom | Optional |
+3    | WED | 9/23/20  | Tips and Strategies for Applying to Graduate School | 4 - 5 pm, URI Zoom | Optional |
+3    | FRI | 09/25/20 | Developing a game plan for Graduate School and SRE's | 4 - 6 pm, URI Zoom | Required |
+4    | WED | 9/30/20  | Technical Writing and Authorship | 4 - 5 pm, URI Zoom | Optional |
+5    | WED | 10/7/20  | Science Careers and Beyond | 4 - 5 pm, URI Zoom | optional |
+5    | FRI | 10/09/20 | Personal Statements: Writing and Reviewing Time | 4 - 6 pm, URI Zoom | Required |
+7    | WED | 10/21/20 | Communicating Science to the Public | 4 - 5 pm, URI Zoom | Optional |
+7    | FRI | 10/23/20 | Prep for ABRCMS (Network/Presentation) | 4 - 6 pm, URI Zoom | Required |
+9    | WED | 11/4/20  | How to Make a Research Poster & Write a Research Abstract | 4 - 5 pm, URI Zoom | Optional |
+9    | FRI | 11/06/20 | Prep for ABRCMS (Network/presentation) | 4 - 6 pm, URI Zoom | Required | 
+10   | Week| 11/09 - 11/13 | ABRMCS Virtual Conference | 12 - 7, TBD | Required |
+11   | FRI | 11/20/20 | Open Session | 4 - 6 pm, URI Zoom | Required |
+13   | FRI | 12/4/20  | Semester Debrief and Winter Planning | 4 - 6 pm, URI Zoom | Required |
+15   | FRI | 12/18/20 | We Survived Celebration | 4 - 6 pm, URI Zoom | Required |
+
+### MARC schedule
 
 Week | Day | Date     | Activity     | Time & Place           | 
 ---- | --- | -------- | -------------| -----------------------|
@@ -38,7 +59,7 @@ Week | Day | Date     | Activity     | Time & Place           |
 9    | FRI | 11/06/20 | Prep for ABRCMS (Network/presentation) | 4 - 6 pm, URI Zoom |
 11   | FRI | 11/20/20 | Open Session | 4 - 6 pm, URI Zoom |
 13   | FRI | 12/4/20  | Semester Debrief and Winter Planning | 4 - 6 pm, URI Zoom |
-15   | FRI | 12/15/20 | We Survived Celebration| 4 - 6 pm, URI Zoom |
+15   | FRI | 12/18/20 | We Survived Celebration| 4 - 6 pm, URI Zoom |
 
 ### INBRE Schedule
 
