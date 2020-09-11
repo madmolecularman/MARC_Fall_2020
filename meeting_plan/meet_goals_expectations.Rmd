@@ -44,6 +44,12 @@ Allow for a 10-20 minute period where trainees are able to communicate with coor
 
 Get everyone into the zoom call, have banter and catch up time, give updates from our labs and summer activities
 
+Questions about how we are communicating this semester?
+
+All calendar and resources will be on the github: https://github.com/madmolecularman/MARC_Fall_2020
+
+Does anyone have any comments or concerns about this format?
+
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
 
