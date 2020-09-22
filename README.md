@@ -65,7 +65,7 @@ Week | Day | Date     | Activity     | Time & Place           | Attendance |
 9    | WED | 11/4/20  | How to Make a Research Poster & Write a Research Abstract | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/96899611253?pwd=b2R5Z3N5b1VZUGVWRTlLUEZIdTV4dz09) | Optional |
 9    | FRI | 11/06/20 | Prep for ABRCMS (Network/presentation) | 4 - 6 pm, URI Zoom | Required | 
 10   | Week| 11/09 - 11/13 | ABRMCS Virtual Conference | 12 - 7, TBD | Required |
-11   | FRI | 11/20/20 | Open Session | 4 - 6 pm, URI Zoom | Required |
+11   | FRI | 11/20/20 | Grad applications and Summer Research Experiences | 4 - 6 pm, URI Zoom | Required |
 13   | FRI | 12/4/20  | Semester Debrief and Winter Planning | 4 - 6 pm, URI Zoom | Required |
 15   | FRI | 12/18/20 | We Survived Celebration | 4 - 6 pm, URI Zoom | Required |
 
@@ -78,7 +78,7 @@ Week | Day | Date     | Activity     | Time & Place           |
 5    | FRI | 10/09/20 | Personal Statements: Writing and Reviewing Time | 4 - 6 pm, URI Zoom |
 7    | FRI | 10/23/20 | Prep for ABRCMS (Network/Presentation) | 4 - 6 pm, URI Zoom |
 9    | FRI | 11/06/20 | Prep for ABRCMS (Network/presentation) | 4 - 6 pm, URI Zoom |
-11   | FRI | 11/20/20 | Graduate School Interview process | 4 - 6 pm, URI Zoom |
+11   | FRI | 11/20/20 | Grad applications and Summer Research Experiences | 4 - 6 pm, URI Zoom |
 13   | FRI | 12/4/20  | Semester Debrief and Winter Planning | 4 - 6 pm, URI Zoom |
 15   | FRI | 12/18/20 | We Survived Celebration| 4 - 6 pm, URI Zoom |
 
