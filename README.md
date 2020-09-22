@@ -2,10 +2,6 @@
 
 This repository is developed by Jacob Green to organize and support URI MARC students over the Fall semester of 2020. We will be scheduling meetings, planning sessions, and other resources through this directory. If you have any questions please reach out to me at here gree9242@uri.edu.
 
-### Description
-
-
-
 ### Fall Meetings
 
 These meetings are meant to provide a platform for MARC trainees to discuss their ideas, triumphs, and concerns over their summer research program while also providing opportunities to develop materials and the scholarly identity needed to succeed in academia and applying to graduate school. Meetings will last from and 1.5 to 2 hours. The typical meeting will be outlined as follows:
@@ -14,6 +10,7 @@ These meetings are meant to provide a platform for MARC trainees to discuss thei
 * Warm-up (10-20 minutes)
 * Meeting activity (50-60 minutes)
 * Wrap-up (20 minutes)
+* Open time (30 minutes)
 
 Check-ins will give trainees the opportunity to update coordinators about what is going on in their programs and how they are doing. It will also allow coordinators to communicate 
 
@@ -23,9 +20,24 @@ Meeting activities will vary depending on the goals of the session and what trai
 
 Wrap-up's will be a closing opportunity that will help trainees summarize what work was accomplished in the meeting session and to clarify any support they need moving forward.
 
+Open time is a period of 30 mintues that is entirely optional. It is meant to give space for critical and needed direct support for trainees in their endeavors. 
+
 ### Expectations
 
+> Get in letters of reccomendation on time
+> Timely communication
+> Matching the level of expectations with support
+> We need some understanding and calm in light of the time we are in
+> Be more understanding of how this semester may progress and change
+> Be involved in this process fully 
+
 ### Goals
+
+> Be prepared to apply to graduate school (plan, timeline, letter of intent)
+> Have the confidence in where you are going to be next summer
+> Grow an interest in the applied/research aspect of this process
+> Program and coordinators supports my track for school (tangible and emotional)
+> Not to miss any deadlines and stay organized
 
 ### Whole Schedule
 
