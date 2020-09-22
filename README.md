@@ -25,18 +25,27 @@ Open time is a period of 30 mintues that is entirely optional. It is meant to gi
 ### Expectations
 
 > Get in letters of reccomendation on time
+
 > Timely communication
+
 > Matching the level of expectations with support
+
 > We need some understanding and calm in light of the time we are in
+
 > Be more understanding of how this semester may progress and change
+
 > Be involved in this process fully 
 
 ### Goals
 
 > Be prepared to apply to graduate school (plan, timeline, letter of intent)
+
 > Have the confidence in where you are going to be next summer
+
 > Grow an interest in the applied/research aspect of this process
+
 > Program and coordinators supports my track for school (tangible and emotional)
+
 > Not to miss any deadlines and stay organized
 
 ### Whole Schedule
