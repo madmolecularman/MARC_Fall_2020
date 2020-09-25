@@ -57,7 +57,8 @@ Week | Day | Date     | Activity     | Time & Place           | Attendance |
 2    | WED | 9/16/20  | Tips and Strategies for Creating Resumes and Using Linkedin | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/99975553333?pwd=YmFKbzVHSFBLS0d0b3dZK2NHRFExQT09) | Optional |
 3    | WED | 9/23/20  | Tips and Strategies for Applying to Graduate School | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/96573597679?pwd=akpqTVJzWVBQMXBPQkdoaHA3aksvdz09) | Optional |
 3    | FRI | 9/25/20 | Developing a game plan for Graduate School and SRE's | 4 - 6 pm, URI Zoom | Required |
-4    | WED | 9/30/20  | Technical Writing and Authorship | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/95160164198?pwd=UXdNaTh4OFprREVWb3c2OVdWNlo0Zz09) | Optional |
+3    | SAT | 9/26/20 | GEM Foundation "Getting Ready for Advanced Degrees" | 10 am - 3pm, [register here](https://docs.google.com/forms/d/e/1FAIpQLSfW-KbpIf7YSQ34d_PihqZe7ipRebQfExRTs3QKzqsPcBeGWg/viewform) |
+4    | WED | 9/3/0/20  | Technical Writing and Authorship | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/95160164198?pwd=UXdNaTh4OFprREVWb3c2OVdWNlo0Zz09) | Optional |
 5    | WED | 10/7/20  | Science Careers and Beyond | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/95093099891?pwd=Y3djaE5KbGpZVzg4WlZJbVR2M2xLZz09) | Optional |
 5    | FRI | 10/09/20 | Personal Statements: Writing and Reviewing Time | 4 - 6 pm, URI Zoom | Required |
 7    | WED | 10/21/20 | Communicating Science to the Public | 4 - 5 pm, [URI Zoom](https://uri-edu.zoom.us/j/91906830990?pwd=ZGxONVdaWnJUZE41a2NQKzljakxkQT09) | Optional |
@@ -101,6 +102,7 @@ Week | Day | Date     | Activity               | Time & Place           |
  9/9/20   | SACNAS: Insights to Success: Career Paths Outside of Academia | 1 pm (PDT), [register here](https://us02web.zoom.us/webinar/register/WN_VXMRnSYgQdOHaDxezx936Q)
  9/11/20  | ABRCMS abstract due | 11:59 pm, [submit here](https://www.abrcms.org/index.php/present-at-abrcms/submit-an-abstract) |
  9/22/20  | DevBio PhD Program Stanford Panel Discussion | 3:30 - 5:00 pm (PDT), [register here](https://docs.google.com/forms/d/e/1FAIpQLSfxd3Lw4Y8qOdgo0dmfJuBf8Tr67z2nm92Hkv58DreBrehA4g/viewform) |
+ 9/26/20 | GEM Foundation "Getting Ready for Advanced Degrees" | 10 am - 3pm, [register here](https://docs.google.com/forms/d/e/1FAIpQLSfW-KbpIf7YSQ34d_PihqZe7ipRebQfExRTs3QKzqsPcBeGWg/viewform) |
  
  
 ### Deliverables Second years
